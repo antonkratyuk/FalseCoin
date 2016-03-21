@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2015\Projects\FalseCoin\FalseCoin\bin\Debug\FalseCoin.exe.config
+c:\users\anton\documents\visual studio 2015\Projects\FalseCoin\FalseCoin\bin\Debug\FalseCoin.exe
+c:\users\anton\documents\visual studio 2015\Projects\FalseCoin\FalseCoin\bin\Debug\FalseCoin.pdb
+c:\users\anton\documents\visual studio 2015\Projects\FalseCoin\FalseCoin\obj\Debug\FalseCoin.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2015\Projects\FalseCoin\FalseCoin\obj\Debug\FalseCoin.exe
+c:\users\anton\documents\visual studio 2015\Projects\FalseCoin\FalseCoin\obj\Debug\FalseCoin.pdb
